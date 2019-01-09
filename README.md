@@ -11,9 +11,11 @@ This repo contains some good coding problems
 3  0  0  2  0  4<br />
 12<br />
 0  1  0  2  1  0  1  3  2  1  2  1<br />
-- **Sample Output**:<br />
+ - **Sample Output**:<br />
 10<br />
 6<br />
+
+[link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/RAIN%20WATER%20TRAPPING.java)
 
 ## 2.MAXIMUM SUM PATH IN TWO ARRAYS
  - **Problem** You are provided two sorted arrays. You need to find the maximum length of bitonic subsequence. You need to find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. You can switch from one array to another array only at common elements.<br />
@@ -27,3 +29,5 @@ This repo contains some good coding problems
 122<br />
 -**Explanation**:<br />
 122 is sum of 1, 5, 7, 8, 10, 12, 15, 30, 34<br />
+[link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/MAXIMUM%20SUM%20PATH%20IN%20TWO%20ARRAYS.java)
+
