@@ -14,3 +14,16 @@ This repo contains some good coding problems
 - **Sample Output**:<br />
 10<br />
 6<br />
+
+## 2.MAXIMUM SUM PATH IN TWO ARRAYS
+ - **Problem** You are provided two sorted arrays. You need to find the maximum length of bitonic subsequence. You need to find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. You can switch from one array to another array only at common elements.<br />
+ [link to the problem ](https://hack.codingblocks.com/contests/c/611/1290) <br />
+ -**Sample Input**:<br />
+1<br />
+8 8<br />
+2 3 7 10 12 15 30 34<br />
+1 5 7 8 10 15 16 19<br />
+-**Sample Output**:<br />
+122<br />
+-**Explanation**:<br />
+122 is sum of 1, 5, 7, 8, 10, 12, 15, 30, 34<br />
