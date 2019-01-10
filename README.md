@@ -50,7 +50,7 @@ First line contains N and C, separated by a single space, representing the total
    -**Sample Output**:<br />
   3<br />
   
-  [link to the solution](http://www.spoj.com/problems/AGGRCOW/)<br />
+  [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/Aggressive%20Cow.java)<br />
 
 
 
