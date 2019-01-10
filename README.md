@@ -59,7 +59,7 @@ First line contains N and C, separated by a single space, representing the total
    -**Sample Input**<br/>
   378<br/>
    -**Sample Output**<br/>
-   1
+   1<br/>
    [link to the solution]()
   
 
