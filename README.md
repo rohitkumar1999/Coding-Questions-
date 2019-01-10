@@ -60,7 +60,7 @@ First line contains N and C, separated by a single space, representing the total
   378<br/>
    -**Sample Output**<br/>
    1<br/>
-   [link to the solution]()
+   [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/Boston%20Number.java)
   
 
 
