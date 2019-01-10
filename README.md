@@ -54,12 +54,12 @@ First line contains N and C, separated by a single space, representing the total
   
   ## 4.BOSTON NUMBER 
   -**Problem** A Boston number is a composite number, the sum of whose digits is the sum of the digits of its prime factors obtained as a result of prime factorization (excluding 1 ). The first few such numbers are 4,22 ,27 ,58 ,85 ,94 and 121 . For example, 378 = 2 × 3 × 3 × 3 × 7 is a Boston number since 3 + 7 + 8 = 2 + 3 + 3 + 3 + 7. Write a program to check whether a given integer is a Boston number.<br/>
-  [link to the problem](https://hack.codingblocks.com/contests/c/611/1103)<br/>
+ [link to the problem](https://hack.codingblocks.com/contests/c/611/1103)<br/>
   
    -**Sample Input**<br/>
-  378<br/>
+     378<br/>
    -**Sample Output**<br/>
-   1<br/>
+     1<br/>
    [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/Boston%20Number.java)
   
 
