@@ -63,7 +63,7 @@ First line contains N and C, separated by a single space, representing the total
    [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/Boston%20Number.java)
    
   ## 5.CHEWBACCA AND NUMBER
-  -**Problem** Luke Skywalker gave Chewbacca an integer number x. Chewbacca isn't good at numbers but he loves inverting digits in them. Inverting digit t means replacing it with digit 9 - t.
+  -**Problem** Luke Skywalker gave Chewbacca an integer number x. Chewbacca isn't good at numbers but he loves inverting digits in them. Inverting digit t means replacing it with digit 9 - t.   
 
 Help Chewbacca to transform the initial number x to the minimum possible positive number by inverting some (possibly, zero) digits. The decimal representation of the final number shouldn't start with a zero.
   
