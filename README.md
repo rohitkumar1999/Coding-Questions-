@@ -29,7 +29,7 @@ This repo contains some good coding problems <br />
 2 3 7 10 12 15 30 34<br />
 1 5 7 8 10 15 16 19<br />
 -**Sample Output**:<br />
-122<br />
+122<br /> 
 -**Explanation**:<br />
 122 is sum of 1, 5, 7, 8, 10, 12, 15, 30, 34<br />
 [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/MAXIMUM%20SUM%20PATH%20IN%20TWO%20ARRAYS.java)
