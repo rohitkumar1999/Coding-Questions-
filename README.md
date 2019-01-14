@@ -47,7 +47,7 @@ First line contains N and C, separated by a single space, representing the total
 5 3<br />
 1 2 8 4 9<br />
 
-   -**Sample Output**:<br />
+   -**Sample Output**:<br /> 
   3<br />
   
   [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/Aggressive%20Cow.java)<br />
