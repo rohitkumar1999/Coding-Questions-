@@ -67,7 +67,7 @@ First line contains N and C, separated by a single space, representing the total
 
 Help Chewbacca to transform the initial number x to the minimum possible positive number by inverting some (possibly, zero) digits. The decimal representation of the final number shouldn't start with a zero.
 
- [link to the solution]()
+ [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/chewacca.java)
 
   
 
