@@ -68,7 +68,13 @@ Help Chewbacca to transform the initial number x to the minimum possible positiv
 
  [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/chewacca.java)
  
-   ## 6.Count number of pallindromic strings 
+   ## 6.Target Sum Pair
+   Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Approach 1: Brute Force
+The brute force approach is simple. Loop through each element x and find if there is another value that equals to target-x. 
     
 
   
