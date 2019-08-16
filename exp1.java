@@ -1,15 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package javaapplication1;
 import java.util.Scanner ; 
 
-/**
- *
- * @author lab107-12
- */
 public class JavaApplication1 {
   
     public static void main(String[] args) {
@@ -24,9 +16,7 @@ public class JavaApplication1 {
     }
     
     public static int factorial(int n)
-    {
-        return (n==1||n==0)?1 : n*factorial(n-1) ; 
-    }
+    {   return (n==1||n==0)?1 : n*factorial(n-1) ;  }
     public static boolean pallindrome(int n)
     {
         int num =  n ; 
@@ -40,15 +30,12 @@ public class JavaApplication1 {
        }
        
        return rev==num ; 
-       
     }
-    
     public static int sumofdigit(int n )
     {
         if(n==0)
             return  0 ; 
         return ((n%9==0)?9:(n%9)) ; 
-        
     }
     public static boolean checkprimedigit(int n )
     { 
@@ -88,9 +75,5 @@ public class JavaApplication1 {
             if(checkprime(i))
                 System.out.print(i+" ");
         }
-        
-    }
-    
-    
-    
+  }
 }
